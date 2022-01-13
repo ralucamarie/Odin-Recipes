@@ -1,0 +1,28 @@
+.recipe_top_img{
+    max-width: 500px;
+    height:auto;
+    object-fit: cover;
+    float: left;
+}
+.recipe_top{
+    padding: 20px 40px 40px;
+    display: flex;
+}
+    
+.recipe_top_ingredients{
+    margin-left: 30px;
+}
+
+
+.content{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.directions{
+    padding-top: 30px;
+}
+
+* {
+    border: 2px solid red;
+  }
